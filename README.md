@@ -151,17 +151,11 @@ weather_SkyGuru/
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
 - Icons and design inspiration from modern weather apps
 
 ---
 
-**Made with ❤️ by SkyGuru Team**
+**Made with ❤️ by Ravi Rajput**
